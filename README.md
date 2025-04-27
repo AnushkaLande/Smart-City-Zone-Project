@@ -1,4 +1,4 @@
-# Smart-City-Zone-Project-with-your-given-features-
+# Smart-City-Zone-Project
 Smart City Zoning using IoT sensor data with KMeans clustering and KNN classification for real-time zone prediction and monitoring.
 
 # Smart City Zoning using IoT Sensor Data
